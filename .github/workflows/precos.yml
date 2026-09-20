@@ -1,0 +1,49 @@
+name: Recolha de preços de combustíveis
+
+on:
+  schedule:
+    - cron: "5 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recolha-precos
+  cancel-in-progress: false
+
+jobs:
+  recolher:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter o repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recolher preços da DGEG
+        id: recolha
+        continue-on-error: true
+        run: python scripts/fetch_precos.py
+
+      - name: Gravar no repositório
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados/ historico.csv
+          if git diff --staged --quiet; then
+            echo "Sem alterações para gravar."
+          else
+            git commit -m "Preços de $(date -u +%F)"
+            git push
+          fi
+
+      - name: Sinalizar recolha incompleta
+        if: steps.recolha.outcome != 'success'
+        run: |
+          echo "::error::A recolha falhou ou ficou incompleta — ver o log e o resumo acima."
+          exit 1
