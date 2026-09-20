@@ -1,0 +1,63 @@
+﻿Data;Combustivel;PostoId;Posto;Marca;TipoPosto;Morada;Municipio;Preco;DataAtualizacao;Latitude;Longitude
+2026-09-20;Gasolina simples 95;86645;INTERMARCHÉ ERMESINDE;INTERMARCHÉ;Outro;R. Gil Vicente, 75;Valongo;1,999;2026-09-14 10:05;41,21385;-8,55054
+2026-09-20;Gasolina simples 95;67262;AUCHAN Gondomar I;AUCHAN;Outro;Rua Exterior Circunvalação, 1730;Gondomar;1,999;2026-09-16 08:55;41,172474;-8,567009
+2026-09-20;Gasolina simples 95;93392;E. LECLERC VALONGO;LECLERC;Outro;ELECLERC;Valongo;2,025;2026-09-14 06:00;41,196873;-8,510386
+2026-09-20;Gasolina simples 95;76640;INTERMARCHÉ VALONGO;INTERMARCHÉ;Outro;Trav. António Augusto Castro Paupério, lote 36;Valongo;2,025;2026-09-18 20:00;41,18385;-8,4808
+2026-09-20;Gasolina simples 95;80564;Distrijovim - Supermercados Lda - PA Intermarché Jovim;INTERMARCHÉ;Outro;Rua das Broas nº 40;Gondomar;2,039;2026-09-15 07:00;41,11732;-8,509337
+2026-09-20;Gasolina simples 95;93273;PRIO Gondomar;PRIO;Outro;Rua Nossa Sra de Fatima, n.2;Gondomar;2,064;2026-09-20 00:30;41,143928;-8,537891
+2026-09-20;Gasolina simples 95;95269;Gondomar I;CEPSA;Outro;AV. CARVALHA, 662, FANZERES;Gondomar;2,073;2026-09-14 00:00;41,165577;-8,544066
+2026-09-20;Gasolina simples 95;69110;Errmesinde (Av. 5 Outubro);Genérico;Outro;RUA 5 DE OUTUBRO;Valongo;2,073;2026-09-16 00:00;41,21902;-8,545499
+2026-09-20;Gasolina simples 95;69184;Cepsa Valongo;CEPSA;Outro;Rua Fonseca Dias, Lugar do Espinheiro;Valongo;2,073;2026-09-16 00:00;41,184;-8,48518
+2026-09-20;Gasolina simples 95;77494;TF GEST - JOVIM;FREITAS;Outro;Rua D. Miguel, EM 614;Gondomar;2,079;2026-09-15 00:05;41,10776;-8,50938
+2026-09-20;Gasolina simples 95;66242;CEPSA SOBRADO;CEPSA;Outro;EN 209 (Rua São João Sobrado nº 3300);Valongo;2,093;2026-09-14 06:30;41,21956;-8,459941
+2026-09-20;Gasolina simples 95;94478;São Pedro da Cova;MOEVE;Outro;Estrada Nacional 219 km 9.7;Gondomar;2,093;2026-09-16 00:00;41,162334;-8,507628
+2026-09-20;Gasolina simples 95;65787;GALP Ermesinde - Continente;GALP;Outro;Rua das Macieiras 330;Valongo;2,104;2026-09-20 03:55;41,20189;-8,54537
+2026-09-20;Gasolina simples 95;67449;PRIO ERMESINDE Sta. Rita;PRIO;Outro;Avenida José Joaquim Ribeiro Teles, nº 280;Valongo;2,109;2026-09-14 00:00;41,20849;-8,54186
+2026-09-20;Gasolina simples 95;93528;PRIO Fânzeres;PRIO;Outro;Rua Dr. Severiano 130, Fânzeres;Gondomar;2,109;2026-09-20 00:30;41,160137;-8,53055
+2026-09-20;Gasolina simples 95;92079;PRIO Alfena ZI;PRIO;Outro;Rua das Passarias nº 721;Valongo;2,109;2026-09-20 00:30;41,23095;-8,537669
+2026-09-20;Gasolina simples 95;93101;P33 - PRIO Baguim do Monte;PRIO;Outro;Rua da Nossa Senhora do Amparo 1053, Baguim do Monte;Gondomar;2,109;2026-09-20 00:30;41,181282;-8,535296
+2026-09-20;Gasolina simples 95;93162;P54 - PRIO Atães;PRIO;Outro;Avenida Clube de Caçadores, 5875 - Lugar de Atães - Jovim;Gondomar;2,109;2026-09-20 00:30;41,108105;-8,532739
+2026-09-20;Gasolina simples 95;65800;AUTO MOURA - Posto GALP Portagens Valongo;GALP;Outro;Rua Vale de Achas;Valongo;2,114;2026-09-14 09:40;41,19226;-8,50446
+2026-09-20;Gasolina simples 95;66399;PA Galp Continente Valongo;GALP;Área comercial (Hipermercados);Rua Julião Sarmento;Valongo;2,114;2026-09-14 09:40;41,1973;-8,4889
+2026-09-20;Gasolina simples 95;67042;Teixeira & Martins, Automóveis, Lda.;GALP;Outro;Rua D. Afonso Henriques (Km 1,8);Gondomar;2,114;2026-09-14 12:40;41,19626;-8,57622
+2026-09-20;Gasolina simples 95;66734;E.S. VALONGO;REPSOL;Outro;Rua Fonsecas Dias nº 291;Valongo;2,114;2026-09-15 09:25;41,1857638888889;-8,48685555555556
+2026-09-20;Gasolina simples 95;65304;David Santos e Moreira,lda;GALP;Outro;EN 108, Km 24,4 - Av.José Joaquim Ferreira, nº 5272;Gondomar;2,114;2026-09-19 15:10;41,05927;-8,39903
+2026-09-20;Gasolina simples 95;65307;David Santos e Moreira,lda;GALP;Outro;EN 108, Km 25,100 - Av. José Joaquim Ferreira;Gondomar;2,114;2026-09-19 15:10;41,05921;-8,39877
+2026-09-20;Gasolina simples 95;67064;GALP Alto de Valongo;GALP;Outro;Av. das Descobertas nº 34;Valongo;2,114;2026-09-20 04:10;41,1943;-8,51689
+2026-09-20;Gasolina simples 95;93255;ALVES BANDEIRA Gondomar (São Pedro da Cova);ALVES BANDEIRA;Outro;Estrada D. Miguel, Lote 5A;Gondomar;2,124;2026-09-14 11:50;41,152486;-8,516297
+2026-09-20;Gasolina simples 95;94631;ABSOLUTEFICAZ - COMBUSTÍVEIS, LDA (REPSOL-ERMESINDE-AV.JOÃO DE DEUS);REPSOL;Outro;AVENIDA JOÃO DE DEUS, LOTE A;Valongo;2,124;2026-09-15 00:00;41,20791;-8,55593
+2026-09-20;Gasolina simples 95;66722;E.S. GONDOMAR - S. COSME;REPSOL;Outro;Rua Dom João de França nº 9;Gondomar;2,124;2026-09-15 00:00;41,1291;-8,52393
+2026-09-20;Gasolina simples 95;69387;Nunes, Alves & Filhos, Lda;REPSOL;Outro;Rua São Vicente, 1194;Valongo;2,124;2026-09-15 00:00;41,225674;-8,530641
+2026-09-20;Gasolina simples 95;66683;E.S. ERMESINDE;REPSOL;Outro;Rua Elias Garcia nº 460;Valongo;2,124;2026-09-15 00:00;41,220761;-8,558206
+2026-09-20;Gasolina simples 95;66702;E.S. RIO TINTO;REPSOL;Outro;Rua Fernão de Magalhães nº 431;Gondomar;2,124;2026-09-15 00:00;41,173102;-8,550333
+2026-09-20;Gasolina simples 95;66729;REPSOL Rio Tinto II;REPSOL;Outro;Rua de Rebordões n.º 297;Gondomar;2,124;2026-09-20 08:10;41,18037;-8,568678
+2026-09-20;Gasolina simples 95;66684;E.S. ERMESINDE A4;REPSOL;Outro;Av. Engº Duarte Pacheco nº 731;Valongo;2,124;2026-09-20 08:15;41,205322;-8,548553
+2026-09-20;Gasolina simples 95;65705;PRIO VALONGO;PRIO;Outro;EN 15 (Rua Conde Ferreira nº 22);Valongo;2,129;2026-09-14 02:00;41,18907;-8,5002
+2026-09-20;Gasolina simples 95;65866;BP CABÊDA;BP;Outro;Rua de Cabêda nº 1300;Valongo;2,129;2026-09-14 16:40;41,214199;-8,524769
+2026-09-20;Gasolina simples 95;66738;E.S. BROALHOS;REPSOL;Outro;Av. Central Broalhos nº 429;Gondomar;2,134;2026-09-19 00:00;41,0736;-8,45808
+2026-09-20;Gasolina simples 95;93583;ALVES BANDEIRA Alfena;ALVES BANDEIRA;Outro;Rua Dom Afonso Henriques, N.º 221;Valongo;2,144;2026-09-14 11:20;41,234573;-8,535571
+2026-09-20;Gasolina simples 95;67828;ALVES BANDEIRA Valongo;ALVES BANDEIRA;Outro;Rua Dom Pedro IV, 900;Valongo;2,144;2026-09-14 11:30;41,201315;-8,505475
+2026-09-20;Gasolina simples 95;93235;SHELL Baguim do Monte - Gondomar;SHELL;Outro;Rua D. António Castro Meireles n.º 400 e Rua do Campinho n.º 6;Gondomar;2,144;2026-09-20 00:30;41,18434;-8,538805
+2026-09-20;Gasolina simples 95;66065;BP Valongo;BP;Outro;Rua Central de Campo;Valongo;2,149;2026-09-14 09:00;41,182166;-8,464255
+2026-09-20;Gasolina simples 95;65302;Petrovaz - Revenda de Combustíveis a Granel, Lda.;GALP;Outro;Av. da Carvalha nº 267;Gondomar;2,154;2026-09-14 09:15;41,16353;-8,53864
+2026-09-20;Gasolina simples 95;65310;Teixeira & Martins,lda;GALP;Outro;Rua Pedro Álvares Cabral;Gondomar;2,154;2026-09-20 00:00;41,17334;-8,554465
+2026-09-20;Gasolina simples 95;65704;TFGest - Gestão e Comércio de Produtos Petrolíferos, Lda.;GALP;Outro;EN 105 Km 8,4;Valongo;2,154;2026-09-20 00:00;41,23792;-8,532845
+2026-09-20;Gasolina simples 95;65308;GALP- Gondomar;GALP;Outro;Av.General Humberto Delgado;Gondomar;2,154;2026-09-20 03:40;41,14706;-8,531529
+2026-09-20;Gasolina simples 95;65828;PA BP Alfena;BP;Outro;Rua 1º de Maio, 1770;Valongo;2,159;2026-09-14 00:00;41,241066;-8,525901
+2026-09-20;Gasolina simples 95;65303;Gepoil - Soc. Gestora Postos Abast. Comb., Ldª;GALP;Outro;EN 108 Km 22,3;Gondomar;2,164;2026-09-17 15:40;41,12811;-8,56652
+2026-09-20;Gasolina simples 95;93904;SHELL Alfena;SHELL;Outro;Rua S.Vicente 2700;Valongo;2,164;2026-09-20 00:30;41,235897;-8,525714
+2026-09-20;Gasolina simples 95;67803;BP Ermesinde;BP;Outro;Rua Jose Joaquim Ribeiro Teles;Valongo;2,169;2026-09-14 00:00;41,21409;-8,5501
+2026-09-20;Gasolina simples 95;66706;E.S. GONDOMAR;REPSOL;Outro;Rua Novais da Cunha nº 973;Gondomar;2,174;2026-09-20 00:00;41,1423;-8,54902
+2026-09-20;Gasolina simples 95;94702;BP Gondomar Estrada D. Miguel;BP;Outro;Estrada Dom Miguel;Gondomar;2,199;2026-09-14 00:00;41,137436;-8,518573
+2026-09-20;Gasolina simples 95;91022;BP - JM - Alfena;BP;Outro;R. Nossa Senhora do Amparo;Valongo;2,199;2026-09-14 09:15;41,23401;-8,49311
+2026-09-20;Gasolina simples 95;69910;Prio Candedo;PRIO;Outro;Bairro de S.José;Murça;2,111;2026-09-14 10:00;41,36199;-7,37995
+2026-09-20;Gasolina simples 95;66819;E.S. MURÇA;REPSOL;Outro;Variante à EN 15;Murça;2,134;2026-09-19 00:00;41,40636;-7,45023
+2026-09-20;Gasolina simples 95;65464;Chamauto Murça;GALP;Outro;Saída do IP4;Murça;2,164;2026-09-14 11:30;41,401507;-7,446909
+2026-09-20;GPL Auto;66683;E.S. ERMESINDE;REPSOL;Outro;Rua Elias Garcia nº 460;Valongo;0,929;2026-09-15 00:00;41,220761;-8,558206
+2026-09-20;GPL Auto;69387;Nunes, Alves & Filhos, Lda;REPSOL;Outro;Rua São Vicente, 1194;Valongo;0,929;2026-09-15 00:00;41,225674;-8,530641
+2026-09-20;GPL Auto;93528;PRIO Fânzeres;PRIO;Outro;Rua Dr. Severiano 130, Fânzeres;Gondomar;0,939;2026-09-20 00:30;41,160137;-8,53055
+2026-09-20;GPL Auto;65308;GALP- Gondomar;GALP;Outro;Av.General Humberto Delgado;Gondomar;0,944;2026-09-20 03:40;41,14706;-8,531529
+2026-09-20;GPL Auto;66734;E.S. VALONGO;REPSOL;Outro;Rua Fonsecas Dias nº 291;Valongo;0,949;2026-09-15 09:25;41,1857638888889;-8,48685555555556
+2026-09-20;GPL Auto;66729;REPSOL Rio Tinto II;REPSOL;Outro;Rua de Rebordões n.º 297;Gondomar;0,949;2026-09-20 08:10;41,18037;-8,568678
+2026-09-20;GPL Auto;67449;PRIO ERMESINDE Sta. Rita;PRIO;Outro;Avenida José Joaquim Ribeiro Teles, nº 280;Valongo;0,979;2026-09-14 00:00;41,20849;-8,54186
+2026-09-20;GPL Auto;66819;E.S. MURÇA;REPSOL;Outro;Variante à EN 15;Murça;0,969;2026-09-19 00:00;41,40636;-7,45023
